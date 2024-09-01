@@ -28,7 +28,7 @@
     <b>Download for </b>
     macOS (<a href="https://github.com/music-assistant/music-assistant-desktop/releases/download/v0.0.70/Music.Assistant.Companion_0.0.45_aarch64.dmg">Apple Silicon</a> |
     <a href="https://github.com/music-assistant/music-assistant-desktop/releases/download/v0.0.70/Music.Assistant.Companion_0.0.45_x64.dmg">Intel</a>) ·
-		<a href="https://github.com/music-assistant/music-assistant-desktop/releases/download/v0.0.70/Music.Assistant.Companion_0.0.45_x64_en-US.msi">Windows</a> ·
+		<a href="https://github.com/music-assistant/companion/releases/download/v0.0.72/Music.Assistant.Companion_0.0.72_x64_en-US.msi">Windows</a> 
     Linux (<a href="https://github.com/music-assistant/music-assistant-desktop/releases/download/v0.0.70/music-assistant-companion_0.0.45_amd64.deb">Debian</a> | <a href="https://github.com/music-assistant/music-assistant-desktop/releases/download/v0.0.70/music-assistant-companion_0.0.45_amd64.AppImage">Other</a>)
     <br />
   </p>
